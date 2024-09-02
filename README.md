@@ -1,5 +1,5 @@
 # Welcome to my GitHub profile!👋
-### In 2024 I got the Master Degree Cum Laude at the University of Florence in Computer Science (Data Science curriculum)🎓
+### In 2024 I got the Master Degree at the University of Florence in Computer Science (Data Science curriculum)🎓
 Here you will find my previous and current projects i'm working on!
 <!--
 **Albe21072000/Albe21072000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
