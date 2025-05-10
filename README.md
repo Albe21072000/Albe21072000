@@ -21,6 +21,6 @@ Here you will find my previous and current projects i'm working on!<br>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Albe21072000&icon=10&color=4)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Albe21072000)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
